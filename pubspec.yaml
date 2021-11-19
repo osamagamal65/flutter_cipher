@@ -8,10 +8,10 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  asn1lib: ^0.5.8
+  asn1lib: ^1.0.3
   collection: ^1.14.11
-  pointycastle: ^1.0.1
-  args: ^1.5.1
+  pointycastle: ^3.4.0
+  args: ^2.3.0
 
   flutter:
     sdk: flutter
